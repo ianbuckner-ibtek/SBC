@@ -13,7 +13,7 @@
 		<div class="bodycopy">
 			<p>By subscribing to our free sermon updates you can automatically download new sermons as they are published as well as accessing all past sermons 
 			currently held on this site.</p>
-			<p>We support the two most popular subscription mechanisms used on the Internet today:</p>
+			<p>We support the most popular subscription mechanisms used on the Internet today:</p>
 		</div>
 		<div class="bodycopy8">
 			<p><img src="images/podcast.gif" style="vertical-align:middle"/> iTunes</p>
@@ -37,6 +37,30 @@
 			<p><img src="images/rssbrowser.png" width="600px"/></p>
 			<p>Now you are ready so click on <a target="_new" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/sermons/rss/"> this link</a> now.</p>
 			<p>There are a number of standalone readers available on the Internet if your web browser does not support RSS. Use your favorite search engine and search for 'RSS reader download'.</p>
+		</div>
+		<div class="bodycopy8">
+			<p><img src="images/sonos.png" style="vertical-align:middle"/> Sonos</p>
+		</div>
+		<div class="bodycopy">
+			<p>The <a href="http://www.sonos.com/" target="_new">Sonos</a> music system is a home wireless hifi system. It allows you to play your music or access internet music and radio services.</p>
+			<p>If you are lucky enough to have the Sonos music system at home then you can stream our sermons by following these hilighted steps in your Sonos controller application:</p>
+			<p><em>Search in Radio Shows:</em></p>
+			<p>
+				<img src="images/IMG_3098.PNG" width="200px"/>
+				<img src="images/IMG_3099.PNG" width="200px"/>
+				<img src="images/IMG_3100.PNG" width="200px"/>
+			</p>
+			<p><em>Search for skipton:</em></p>
+			<p>
+				<img src="images/IMG_3101.PNG" width="200px"/>
+				<img src="images/IMG_3102.PNG" width="200px"/>
+				<img src="images/IMG_3103.PNG" width="200px"/>
+			</p>
+			<p><em>Long press to display menu to save show:</em></p>
+			<p>
+				<img src="images/IMG_3104.PNG" width="200px"/>
+				<img src="images/IMG_3105.PNG" width="200px"/>
+			</p>
 		</div>
 	</body>
 </html>
